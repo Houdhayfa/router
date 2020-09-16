@@ -1,0 +1,13 @@
+.productList{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(190, 180, 180);
+    width: 30%;
+}
+.wrapper{
+    display:flex;
+}
+.product{
+    padding-left: 20%;
+}
